@@ -1,0 +1,17 @@
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Application.deps.json
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Application.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Application.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Domain.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Infrastructure.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Domain.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\bin\Debug\net9.0\BookLibrary.Infrastructure.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.csproj.AssemblyReference.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.AssemblyInfoInputs.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.AssemblyInfo.cs
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.csproj.CoreCompileInputs.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibr.7A31D052.Up2Date
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\refint\BookLibrary.Application.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\BookLibrary.Application.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Application\obj\Debug\net9.0\ref\BookLibrary.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\bin\Debug\net9.0\BookLibrary.Domain.deps.json
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\bin\Debug\net9.0\BookLibrary.Domain.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\bin\Debug\net9.0\BookLibrary.Domain.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.AssemblyInfo.cs
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\refint\BookLibrary.Domain.dll
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.pdb
+C:\Users\akinc\OneDrive\Desktop\MyProjects-2026\BookLibrary\BookLibrary.Domain\obj\Debug\net9.0\ref\BookLibrary.Domain.dll

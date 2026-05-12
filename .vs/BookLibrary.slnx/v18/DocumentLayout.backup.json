@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\dtos\\bookdtos\\resultbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\dtos\\bookdtos\\resultbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\services\\googlebooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\services\\googlebooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\models\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\models\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500F1F15-D2E2-5373-384D-C38FF1BAE933}|BookLibrary.Domain\\BookLibrary.Domain.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F1F15-D2E2-5373-384D-C38FF1BAE933}|BookLibrary.Domain\\BookLibrary.Domain.csproj|solutionrelative:booklibrary.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 531,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookLibrary.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:02:29.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
+              "RelativeToolTip": "BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:19:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Services\\GoogleBooksService.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Services\\GoogleBooksService.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Services\\GoogleBooksService.cs",
+              "RelativeToolTip": "BookLibrary.API\\Services\\GoogleBooksService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwCQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T11:37:32.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookResponse.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Models\\BookResponse.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Models\\BookResponse.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Models\\BookResponse.cs",
+              "RelativeToolTip": "BookLibrary.API\\Models\\BookResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBAwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T11:19:06.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookLibrary.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:08:06.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
+              "RelativeToolTip": "BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:58:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "BookLibrary.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T12:54:59.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Domain\\Book.cs",
+              "RelativeDocumentMoniker": "BookLibrary.Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Domain\\Book.cs",
+              "RelativeToolTip": "BookLibrary.Domain\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T12:54:03.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
