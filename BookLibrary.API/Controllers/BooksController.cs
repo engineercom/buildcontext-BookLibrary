@@ -19,13 +19,16 @@ namespace BookLibrary.API.Controllers
         private BookService _service;
         private IValidator<CreateBookDto> _validator;
         private GoogleBooksService _googleBooksService;
+        private ILogger<BooksController> _logger;
 
 
-        public BooksController(BookService service, IValidator<CreateBookDto> validator, GoogleBooksService googleBooksService)
+
+        public BooksController(BookService service, IValidator<CreateBookDto> validator, GoogleBooksService googleBooksService, ILogger<BooksController> logger)
         {
             _service = service;
             _validator = validator;
             _googleBooksService = googleBooksService;
+            _logger = logger;
         }
 
         [HttpGet]
@@ -38,14 +41,25 @@ namespace BookLibrary.API.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateAsync(CreateBookDto request)
         {
-            var result = _validator.Validate(request);
-            if (!result.IsValid)
+            try
             {
-                return BadRequest(result.Errors.Select(a => a.ErrorMessage));
+                var result = _validator.Validate(request);
+                if (!result.IsValid)
+                {
+                    return BadRequest(result.Errors.Select(a => a.ErrorMessage));
+                }
+                var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+                await _service.AddAsync(request, userId!);
+                _logger.LogInformation("Book created successfully.Title:{Title}", request.Title);
+                return Ok("created");
+
             }
-            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            await _service.AddAsync(request, userId!);
-            return Ok("created");
+            catch (Exception ex)
+            {
+                _logger.LogError(ex," Error occurred while creating book. Title:{Title}", request.Title);
+             return StatusCode(500, "An error occurred while creating the book.");
+            }
+         
         }
         [Authorize]
         [HttpPut("update")]

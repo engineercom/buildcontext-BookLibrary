@@ -4,6 +4,7 @@ using BookLibrary.Application.Mapping;
 using BookLibrary.Domain;
 using BookLibrary.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,10 +18,12 @@ public class BookService
     private readonly AppDbContext _context;
     private readonly IMapper _mapper;
 
-    public BookService(AppDbContext context, IMapper mapper)
+
+    public BookService(AppDbContext context, IMapper mapper )
     {
         _context = context;
         _mapper = mapper;
+      
     }
     public async Task<List<ResultBookDto>> GetAllAsync()
     {
@@ -38,8 +41,7 @@ public class BookService
         book.UserId = userId;
         await _context.Books.AddAsync(book);
         await _context.SaveChangesAsync();
-
-
+       
     }
     public async Task AddBookFromGoogleAsync(CreateBookDto bookDto)
     {

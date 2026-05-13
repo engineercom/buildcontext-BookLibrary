@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\logs\\log-20260512.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\logs\\log-20260512.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\dtos\\bookdtos\\resultbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\dtos\\bookdtos\\resultbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.api\\models\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5754DD4D-60D5-1B3E-6156-71AA600496CE}|BookLibrary.API\\BookLibrary.API.csproj|solutionrelative:booklibrary.api\\models\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4C1790-26EC-F004-1181-C9A2F2DB7396}|BookLibrary.Application\\BookLibrary.Application.csproj|solutionrelative:booklibrary.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500F1F15-D2E2-5373-384D-C38FF1BAE933}|BookLibrary.Domain\\BookLibrary.Domain.csproj|c:\\users\\akinc\\onedrive\\desktop\\myprojects-2026\\booklibrary\\booklibrary.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{500F1F15-D2E2-5373-384D-C38FF1BAE933}|BookLibrary.Domain\\BookLibrary.Domain.csproj|solutionrelative:booklibrary.domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,77 +35,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\.gitignore",
-              "RelativeDocumentMoniker": "BookLibrary.API\\.gitignore",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\.gitignore",
-              "RelativeToolTip": "BookLibrary.API\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-12T17:15:36.409Z",
+              "Title": "log-20260512.txt",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Logs\\log-20260512.txt",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Logs\\log-20260512.txt",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Logs\\log-20260512.txt",
+              "RelativeToolTip": "BookLibrary.API\\Logs\\log-20260512.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-13T17:47:22.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BookLibrary.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BookLibrary.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T17:02:29.173Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookLibrary.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\appsettings.json",
+              "RelativeToolTip": "BookLibrary.API\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T17:41:44.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ResultBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
-              "RelativeToolTip": "BookLibrary.Application\\Dtos\\BookDtos\\ResultBookDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Program.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Program.cs",
+              "RelativeToolTip": "BookLibrary.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T17:19:05.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookResponse.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Models\\BookResponse.cs",
-              "RelativeDocumentMoniker": "BookLibrary.API\\Models\\BookResponse.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Models\\BookResponse.cs",
-              "RelativeToolTip": "BookLibrary.API\\Models\\BookResponse.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBAwAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T11:19:06.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookLibrary.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookLibrary.API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:08:06.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
-              "RelativeToolTip": "BookLibrary.Application\\Dtos\\BookDtos\\CreateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T16:58:33.635Z"
+              "WhenOpened": "2026-05-13T17:36:13.432Z"
             },
             {
               "$type": "Document",
@@ -127,21 +77,21 @@
               "RelativeDocumentMoniker": "BookLibrary.Application\\Services\\BookService.cs",
               "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Application\\Services\\BookService.cs",
               "RelativeToolTip": "BookLibrary.Application\\Services\\BookService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:54:59.033Z"
+              "WhenOpened": "2026-05-13T17:29:52.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Domain\\Book.cs",
-              "RelativeDocumentMoniker": "BookLibrary.Domain\\Book.cs",
-              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.Domain\\Book.cs",
-              "RelativeToolTip": "BookLibrary.Domain\\Book.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBYAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookLibrary.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\akinc\\OneDrive\\Desktop\\MyProjects-2026\\BookLibrary\\BookLibrary.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookLibrary.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAEBDwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:54:03.221Z"
+              "WhenOpened": "2026-05-13T17:28:42.072Z"
             }
           ]
         }
